@@ -8,4 +8,4 @@
     <li>Authentication</li>
     <li>Customized Profile</li>
 </ul>
-<h3>CHECK OUT THIS WEBSITE HERE</h3>
+
