@@ -1,0 +1,8 @@
+@font-face{
+    font-family:rb;
+    src:url(./NunitoSans_7pt-Bold.ttf);
+}
+
+body{
+    font-family:rb;
+}
