@@ -1,0 +1,6 @@
+[submodule "CafeMateFrontEnd"]
+	path = CafeMateFrontEnd
+	url = https://github.com/CodeNinja19/CafeMateFrontEnd.git
+[submodule "CafeMateBackEnd"]
+	path = CafeMateBackEnd
+	url = https://github.com/CodeNinja19/CafeMateBackEnd.git
